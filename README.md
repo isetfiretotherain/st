@@ -1,6 +1,6 @@
 # Changes applied to the fork
 
-
+- Changed font to 14.
 
 ## Luke's build of st - the simple (suckless) terminal
 
