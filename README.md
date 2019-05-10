@@ -1,6 +1,7 @@
 # Changes applied to the fork
 
-- Changed font to 14.
+- Should beware of the possibility of wipping the `.bashrc`
+  configurations, so have those backed up just in case.
 
 ## Luke's build of st - the simple (suckless) terminal
 
